@@ -1,0 +1,14 @@
+{
+  "name": "mean-todo-app",
+  "version": "1.0.0",
+  "author": "Justin Mendelson",
+  "license": "MIT",
+  "description": "Simple To Do app build with MEAN stack",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/just1jp/mean-todo-App.git"
+  }  
+}
